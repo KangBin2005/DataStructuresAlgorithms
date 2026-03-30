@@ -1,5 +1,5 @@
-# 🌀 Recursive Visualizations & Fractals
-### Data Structures & Algorithms | Python & Turtle Graphics
+# 🌀 Data Structures & Alogirthms Assingment
+### Recursive Visualizations & Fractals | Python & Turtle Graphics
 
 This repository contains a collection of recursive algorithms implemented to visualize complex geometric fractals and seasonal simulations. Each project explores the power of **recursion**, **mathematical constants**, and **procedural generation**.
 
@@ -54,5 +54,11 @@ A sophisticated implementation of the Pythagoras Tree fractal, integrated with e
 1. Ensure you have Python installed.
 2. Clone the repository.
 3. Run any of the seasonal or fractal files:
-   ```bash
-   python Q2_Pytheagoras_Tree_Left_Lean.py
+```bash
+# To see the Rainy Night Pythagoras Tree:
+python Q2_Pytheagoras_Tree_Left_Lean.py
+
+# To see the Sierpinski Circle:
+python Q1b_Sierpinski_Circle.py
+
+
